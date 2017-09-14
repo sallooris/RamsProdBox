@@ -10,6 +10,8 @@
         <members>standard__AppLauncher</members>
         <members>standard__Chatter</members>
         <members>standard__Community</members>
+        <members>standard__Content</members>
+        <members>standard__LightningSales</members>
         <name>CustomApplication</name>
     </types>
 </Package>
